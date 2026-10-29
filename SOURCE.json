@@ -1,0 +1,33 @@
+{
+  "brand": "Игла",
+  "short_brand": "Игла",
+  "slug": "igla-atelier-design-demo",
+  "email": "a-igla@mail.ru",
+  "phone": "+79856491946",
+  "phone_display": "+7 985 649-19-46",
+  "address": "Ярцевская улица, 25А, ТК «Трамплин»",
+  "city": "Москва",
+  "telegram": null,
+  "source_urls": [
+    "https://asktel.ru/moskva/atele_mehovoe/igla_3/",
+    "https://mestam.info/ru/moskva/address/yarcevskaya-25a-1-etaj",
+    "https://msk.spravker.ru/remont-kozhi/metro-kryilatskoe/"
+  ],
+  "contacted": false,
+  "spreadsheet_row": null,
+  "email_evidence": "Public company-directory email; directory update2020-06-29. Matching branch name/address/phone corroborated by current independent directory.",
+  "email_source_date": "2020-06-29",
+  "confidence": "medium",
+  "website_status": "No own website found for this atelier network in email/branch-name/address searches.",
+  "caveats": [
+    "Email belongs to network; use one draft, not separate messages to branches.",
+    "Mailbox deliverability not tested; publicly listed email may be stale."
+  ],
+  "verified_on": "2026-10-30",
+  "template": "lepata-atelier-design-demo",
+  "template_commit": "2617d97431b663fa417961ffd5e7881d0bee6275",
+  "prepared_on": "2026-10-30",
+  "demo_only": true,
+  "data_submission": false,
+  "repository": "igla-atelier-design-demo"
+}
